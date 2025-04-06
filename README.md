@@ -49,7 +49,7 @@ Essas imagens compõem a aparência visual do tema dentro do navegador Chrome.
 Você pode baixar este repositório como `.zip` ou clonar via Git:
 
 ```bash
-git clone https://github.com/seu-usuario/Themes-Google.git
+git clone https://github.com/EduardoRTonks/Themes-Google.git
 ```
 
 ## 📄 Licença
