@@ -52,8 +52,6 @@ Você pode baixar este repositório como `.zip` ou clonar via Git:
 git clone https://github.com/seu-usuario/Themes-Google.git
 ```
 
-Ou baixe diretamente [clicando aqui](https://github.com/seu-usuario/Themes-Google/archive/refs/heads/main.zip).
-
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Sinta-se livre para modificar e usar como quiser.
