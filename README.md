@@ -58,4 +58,4 @@ Este projeto está sob a licença MIT. Sinta-se livre para modificar e usar como
 
 ---
 
-Feito com 💻 por [Seu Nome ou Usuário do GitHub]
+Feito com 💻 por Eduardo Tonks
