@@ -16,7 +16,7 @@
             "ntp_background":[255,255,255],
             "ntp_text":[50,50,50],
             "ntp_link":[6,55,116],
-            "button_background":[0,0,0,0],
+            "button_background":[0,0,0],
             "omnibox_text": [5,4,6],                
             "omnibox_border": [5,4,6],
             "toolbar_field_text": [5,4,6]
